@@ -1,2 +1,2 @@
 # Fintech-Platform-Prototype
-Fintech-Prototype with Rust
+Rust, Solidity, Cross-Chain DEX, AMM, AI, ML, LLM
