@@ -11,3 +11,6 @@ Solidity: https://docs.soliditylang.org/en/latest/installing-solidity.html
 Develop a high-frequency trading exchange platform prototype with core functions with unit tests, allowing for future iterating.
 Build a matching engine, integrating accounting and trading components, using Rust data structures and iterators and etc.
 Extend prototype to include futures trading, set up warp web service, and created a complete Rust HTTP API.
+
+## Stage 2:
+Integrate AI chatbot, fine-tune for Finance
